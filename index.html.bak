@@ -7,14 +7,14 @@
 	font-size: 14px;
 }
   body {
-	background-image: url(file:///E|/904410775/images/01W58PIC6uq_1024.jpg);
+	background-image: url(images/01W58PIC6uq_1024.jpg);
 }
   </style>
   </head>
   <body>
   <center>
-  <h1 align=center><strong><span style="letter-spacing:3.0pt; font-family:幼圆; font-size:24.0pt; "><img src="file:///E|/904410775/images/Balloon (1).bmp" alt="" width="96" height="96" align="middle">我的名片</span></strong><img src="file:///E|/904410775/images/Balloon (1).bmp" width="96" height="96" align="middle"></h1>
-    <p align=center><img src="file:///E|/904410775/110.jpg" width="139" height="192"><strong>姓名：韩军强</strong></p>
+  <h1 align=center><strong><span style="letter-spacing:3.0pt; font-family:幼圆; font-size:24.0pt; "><img src="images/Balloon (1).bmp" alt="" width="96" height="96" align="middle">我的名片</span></strong><img src="images/Balloon (1).bmp" width="96" height="96" align="middle"></h1>
+    <p align=center><img src="file:///C|/Users/asus/AppData/Roaming/Adobe/Dreamweaver CS5/zh_CN/OfficeImageTemp/image002_0000.png" alt="" width="152" height="202" hspace="12" align="middle" /><strong>姓名：韩军强</strong></p>
     <p align="center"><font color="blue" size="5" face="宋体"><strong>兴趣爱好:</strong></font></p>
 <p align="center"><font color="blue" size="5" face="宋体">我喜欢称自己Mr.han,</font>                  </p>
     <p align="center"><font color="blue" size="5" face="宋体">喜欢打羽毛球，听听音乐，</font></p>
@@ -32,6 +32,6 @@
     </center>  
   <p align=center><a href="http://www.baidu.com">转百度一下</a></p>
  
-  <p>  <img src="file:///E|/904410775/images/111.gif" width="188" height="180" align=right><img src="file:///E|/904410775/images/111.gif" width="182" height="175" align=left> </p>
+  <p>  <img src="images/111.gif" width="188" height="180" align=right><img src="images/111.gif" width="182" height="175" align=left> </p>
 </body>
 </html>
